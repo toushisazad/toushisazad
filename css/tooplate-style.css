@@ -357,9 +357,6 @@ ul.cd-hero-slider {
 
 #what-we-do {
 	background-image: url(../assets/about/about-section-bg.jpg);
-  background-repeat:repeat-x;
-  background-attachment:fixed;
-  background-position: left top;
   width: 100%;
   margin:0;
 	padding: 80px 0px;
